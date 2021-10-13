@@ -2717,7 +2717,7 @@
       "Name": "Schaad1980Fig3c ID6",
       "Model": "4Comp",
       "ObservedData": [
-        "Schaad 1980 - ID 6 - vancomycin - IV - 10 mg/kg - Plasma - indiv."
+        "Schaad 1980 - ID 6 - Vancomycin - IV - 10 mg/kg - Plasma - indiv."
       ],
       "Solver": {},
       "OutputSchema": [
@@ -2830,9 +2830,9 @@
               }
             },
             {
-              "Name": "Schaad 1980 - ID 6 - vancomycin - IV - 10 mg/kg - Plasma - indiv.-vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
-              "X": "Schaad 1980 - ID 6 - vancomycin - IV - 10 mg/kg - Plasma - indiv.|Time",
-              "Y": "Schaad 1980 - ID 6 - vancomycin - IV - 10 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|vancomycin|ArithmeticMean",
+              "Name": "Schaad 1980 - ID 6 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.-Vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "X": "Schaad 1980 - ID 6 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.|Time",
+              "Y": "Schaad 1980 - ID 6 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Vancomycin|ArithmeticMean",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 3,
@@ -2880,9 +2880,9 @@
               }
             },
             {
-              "Name": "Schaad 1980 - ID 6 - vancomycin - IV - 10 mg/kg - Plasma - indiv.-vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
-              "X": "Schaad 1980 - ID 6 - vancomycin - IV - 10 mg/kg - Plasma - indiv.|Time",
-              "Y": "Schaad 1980 - ID 6 - vancomycin - IV - 10 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|vancomycin|ArithmeticMean",
+              "Name": "Schaad 1980 - ID 6 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.-Vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "X": "Schaad 1980 - ID 6 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.|Time",
+              "Y": "Schaad 1980 - ID 6 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Vancomycin|ArithmeticMean",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 3,
@@ -2900,7 +2900,7 @@
       "Name": "Schaad1980Fig1c ID1",
       "Model": "4Comp",
       "ObservedData": [
-        "Schaad 1980 - ID 1 - vancomycin - IV - 15 mg/kg - Plasma - indiv."
+        "Schaad 1980 - ID 1 - Vancomycin - IV - 15 mg/kg - Plasma - indiv."
       ],
       "Solver": {},
       "OutputSchema": [
@@ -3013,9 +3013,9 @@
               }
             },
             {
-              "Name": "Schaad 1980 - ID 1 - vancomycin - IV - 15 mg/kg - Plasma - indiv.-vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
-              "X": "Schaad 1980 - ID 1 - vancomycin - IV - 15 mg/kg - Plasma - indiv.|Time",
-              "Y": "Schaad 1980 - ID 1 - vancomycin - IV - 15 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|vancomycin|ArithmeticMean",
+              "Name": "Schaad 1980 - ID 1 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.-Vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "X": "Schaad 1980 - ID 1 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.|Time",
+              "Y": "Schaad 1980 - ID 1 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Vancomycin|ArithmeticMean",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 3,
@@ -3063,9 +3063,9 @@
               }
             },
             {
-              "Name": "Schaad 1980 - ID 1 - vancomycin - IV - 15 mg/kg - Plasma - indiv.-vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
-              "X": "Schaad 1980 - ID 1 - vancomycin - IV - 15 mg/kg - Plasma - indiv.|Time",
-              "Y": "Schaad 1980 - ID 1 - vancomycin - IV - 15 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|vancomycin|ArithmeticMean",
+              "Name": "Schaad 1980 - ID 1 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.-Vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "X": "Schaad 1980 - ID 1 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.|Time",
+              "Y": "Schaad 1980 - ID 1 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Vancomycin|ArithmeticMean",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 2,
@@ -3083,7 +3083,7 @@
       "Name": "Schaad1980Fig3a ID4",
       "Model": "4Comp",
       "ObservedData": [
-        "Schaad 1980 - ID 4 - vancomycin - IV - 15 mg/kg - Plasma - indiv."
+        "Schaad 1980 - ID 4 - Vancomycin - IV - 15 mg/kg - Plasma - indiv."
       ],
       "Solver": {},
       "OutputSchema": [
@@ -3196,9 +3196,9 @@
               }
             },
             {
-              "Name": "Schaad 1980 - ID 4 - vancomycin - IV - 15 mg/kg - Plasma - indiv.-vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
-              "X": "Schaad 1980 - ID 4 - vancomycin - IV - 15 mg/kg - Plasma - indiv.|Time",
-              "Y": "Schaad 1980 - ID 4 - vancomycin - IV - 15 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|vancomycin|ArithmeticMean",
+              "Name": "Schaad 1980 - ID 4 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.-Vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "X": "Schaad 1980 - ID 4 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.|Time",
+              "Y": "Schaad 1980 - ID 4 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Vancomycin|ArithmeticMean",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 3,
@@ -3246,9 +3246,9 @@
               }
             },
             {
-              "Name": "Schaad 1980 - ID 4 - vancomycin - IV - 15 mg/kg - Plasma - indiv.-vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
-              "X": "Schaad 1980 - ID 4 - vancomycin - IV - 15 mg/kg - Plasma - indiv.|Time",
-              "Y": "Schaad 1980 - ID 4 - vancomycin - IV - 15 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|vancomycin|ArithmeticMean",
+              "Name": "Schaad 1980 - ID 4 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.-Vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "X": "Schaad 1980 - ID 4 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.|Time",
+              "Y": "Schaad 1980 - ID 4 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Vancomycin|ArithmeticMean",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 3,
@@ -3266,7 +3266,7 @@
       "Name": "Schaad1980Fig2a ID2",
       "Model": "4Comp",
       "ObservedData": [
-        "Schaad 1980 - ID 2 - vancomycin - IV - 10 mg/kg - Plasma - indiv."
+        "Schaad 1980 - ID 2 - Vancomycin - IV - 10 mg/kg - Plasma - indiv."
       ],
       "Solver": {},
       "OutputSchema": [
@@ -3398,9 +3398,9 @@
               }
             },
             {
-              "Name": "Schaad 1980 - ID 2 - vancomycin - IV - 10 mg/kg - Plasma - indiv.-vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
-              "X": "Schaad 1980 - ID 2 - vancomycin - IV - 10 mg/kg - Plasma - indiv.|Time",
-              "Y": "Schaad 1980 - ID 2 - vancomycin - IV - 10 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|vancomycin|ArithmeticMean",
+              "Name": "Schaad 1980 - ID 2 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.-Vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "X": "Schaad 1980 - ID 2 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.|Time",
+              "Y": "Schaad 1980 - ID 2 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Vancomycin|ArithmeticMean",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 3,
@@ -3448,9 +3448,9 @@
               }
             },
             {
-              "Name": "Schaad 1980 - ID 2 - vancomycin - IV - 10 mg/kg - Plasma - indiv.-vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
-              "X": "Schaad 1980 - ID 2 - vancomycin - IV - 10 mg/kg - Plasma - indiv.|Time",
-              "Y": "Schaad 1980 - ID 2 - vancomycin - IV - 10 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|vancomycin|ArithmeticMean",
+              "Name": "Schaad 1980 - ID 2 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.-Vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "X": "Schaad 1980 - ID 2 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.|Time",
+              "Y": "Schaad 1980 - ID 2 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Vancomycin|ArithmeticMean",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 3,
@@ -3468,7 +3468,7 @@
       "Name": "Schaad1980Fig2b ID3",
       "Model": "4Comp",
       "ObservedData": [
-        "Schaad 1980 - ID 3 - vancomycin - IV - 15 mg/kg - Plasma - indiv."
+        "Schaad 1980 - ID 3 - Vancomycin - IV - 15 mg/kg - Plasma - indiv."
       ],
       "Solver": {},
       "OutputSchema": [
@@ -3600,9 +3600,9 @@
               }
             },
             {
-              "Name": "Schaad 1980 - ID 3 - vancomycin - IV - 15 mg/kg - Plasma - indiv.-vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
-              "X": "Schaad 1980 - ID 3 - vancomycin - IV - 15 mg/kg - Plasma - indiv.|Time",
-              "Y": "Schaad 1980 - ID 3 - vancomycin - IV - 15 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|vancomycin|ArithmeticMean",
+              "Name": "Schaad 1980 - ID 3 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.-Vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "X": "Schaad 1980 - ID 3 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.|Time",
+              "Y": "Schaad 1980 - ID 3 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Vancomycin|ArithmeticMean",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 3,
@@ -3650,9 +3650,9 @@
               }
             },
             {
-              "Name": "Schaad 1980 - ID 3 - vancomycin - IV - 15 mg/kg - Plasma - indiv.-vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
-              "X": "Schaad 1980 - ID 3 - vancomycin - IV - 15 mg/kg - Plasma - indiv.|Time",
-              "Y": "Schaad 1980 - ID 3 - vancomycin - IV - 15 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|vancomycin|ArithmeticMean",
+              "Name": "Schaad 1980 - ID 3 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.-Vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "X": "Schaad 1980 - ID 3 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.|Time",
+              "Y": "Schaad 1980 - ID 3 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Vancomycin|ArithmeticMean",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 3,
@@ -3670,7 +3670,7 @@
       "Name": "Schaad1980Fig3b ID5",
       "Model": "4Comp",
       "ObservedData": [
-        "Schaad 1980 - ID 5 - vancomycin - IV - 10 mg/kg - Plasma - indiv."
+        "Schaad 1980 - ID 5 - Vancomycin - IV - 10 mg/kg - Plasma - indiv."
       ],
       "Solver": {},
       "OutputSchema": [
@@ -3802,9 +3802,9 @@
               }
             },
             {
-              "Name": "Schaad 1980 - ID 5 - vancomycin - IV - 10 mg/kg - Plasma - indiv.-vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
-              "X": "Schaad 1980 - ID 5 - vancomycin - IV - 10 mg/kg - Plasma - indiv.|Time",
-              "Y": "Schaad 1980 - ID 5 - vancomycin - IV - 10 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|vancomycin|ArithmeticMean",
+              "Name": "Schaad 1980 - ID 5 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.-Vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "X": "Schaad 1980 - ID 5 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.|Time",
+              "Y": "Schaad 1980 - ID 5 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Vancomycin|ArithmeticMean",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 3,
@@ -3852,9 +3852,9 @@
               }
             },
             {
-              "Name": "Schaad 1980 - ID 5 - vancomycin - IV - 10 mg/kg - Plasma - indiv.-vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
-              "X": "Schaad 1980 - ID 5 - vancomycin - IV - 10 mg/kg - Plasma - indiv.|Time",
-              "Y": "Schaad 1980 - ID 5 - vancomycin - IV - 10 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|vancomycin|ArithmeticMean",
+              "Name": "Schaad 1980 - ID 5 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.-Vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "X": "Schaad 1980 - ID 5 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.|Time",
+              "Y": "Schaad 1980 - ID 5 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Vancomycin|ArithmeticMean",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 3,
@@ -3872,7 +3872,7 @@
       "Name": "Schaad 1980 Fig 1c POP",
       "Model": "4Comp",
       "ObservedData": [
-        "Schaad 1980 - ID 1 - vancomycin - IV - 15 mg/kg - Plasma - indiv."
+        "Schaad 1980 - ID 1 - Vancomycin - IV - 15 mg/kg - Plasma - indiv."
       ],
       "Solver": {},
       "OutputSchema": [
@@ -3996,13 +3996,13 @@
           },
           "ObservedDataCollection": {
             "ObservedData": [
-              "Schaad 1980 - ID 1 - vancomycin - IV - 15 mg/kg - Plasma - indiv."
+              "Schaad 1980 - ID 1 - Vancomycin - IV - 15 mg/kg - Plasma - indiv."
             ],
             "ApplyGrouping": false,
             "CurveOptions": [
               {
-                "Caption": "Schaad 1980 - ID 1 - vancomycin - IV - 15 mg/kg - Plasma - indiv.-vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
-                "Path": "Schaad 1980 - ID 1 - vancomycin - IV - 15 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|vancomycin|ArithmeticMean",
+                "Caption": "Schaad 1980 - ID 1 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.-Vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+                "Path": "Schaad 1980 - ID 1 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Vancomycin|ArithmeticMean",
                 "CurveOptions": {
                   "LineStyle": "None",
                   "Symbol": "Circle"
@@ -4067,13 +4067,13 @@
           },
           "ObservedDataCollection": {
             "ObservedData": [
-              "Schaad 1980 - ID 1 - vancomycin - IV - 15 mg/kg - Plasma - indiv."
+              "Schaad 1980 - ID 1 - Vancomycin - IV - 15 mg/kg - Plasma - indiv."
             ],
             "ApplyGrouping": false,
             "CurveOptions": [
               {
-                "Caption": "Schaad 1980 - ID 1 - vancomycin - IV - 15 mg/kg - Plasma - indiv.-vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
-                "Path": "Schaad 1980 - ID 1 - vancomycin - IV - 15 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|vancomycin|ArithmeticMean",
+                "Caption": "Schaad 1980 - ID 1 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.-Vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+                "Path": "Schaad 1980 - ID 1 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Vancomycin|ArithmeticMean",
                 "CurveOptions": {
                   "LineStyle": "None",
                   "Symbol": "Circle"
@@ -4116,7 +4116,7 @@
       "Name": "Schaad 1980 Fig 2a POP",
       "Model": "4Comp",
       "ObservedData": [
-        "Schaad 1980 - ID 2 - vancomycin - IV - 10 mg/kg - Plasma - indiv."
+        "Schaad 1980 - ID 2 - Vancomycin - IV - 10 mg/kg - Plasma - indiv."
       ],
       "Solver": {},
       "OutputSchema": [
@@ -4240,13 +4240,13 @@
           },
           "ObservedDataCollection": {
             "ObservedData": [
-              "Schaad 1980 - ID 2 - vancomycin - IV - 10 mg/kg - Plasma - indiv."
+              "Schaad 1980 - ID 2 - Vancomycin - IV - 10 mg/kg - Plasma - indiv."
             ],
             "ApplyGrouping": false,
             "CurveOptions": [
               {
-                "Caption": "Schaad 1980 - ID 2 - vancomycin - IV - 10 mg/kg - Plasma - indiv.-vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
-                "Path": "Schaad 1980 - ID 2 - vancomycin - IV - 10 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|vancomycin|ArithmeticMean",
+                "Caption": "Schaad 1980 - ID 2 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.-Vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+                "Path": "Schaad 1980 - ID 2 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Vancomycin|ArithmeticMean",
                 "CurveOptions": {
                   "LineStyle": "None",
                   "Symbol": "Circle"
@@ -4311,13 +4311,13 @@
           },
           "ObservedDataCollection": {
             "ObservedData": [
-              "Schaad 1980 - ID 2 - vancomycin - IV - 10 mg/kg - Plasma - indiv."
+              "Schaad 1980 - ID 2 - Vancomycin - IV - 10 mg/kg - Plasma - indiv."
             ],
             "ApplyGrouping": false,
             "CurveOptions": [
               {
-                "Caption": "Schaad 1980 - ID 2 - vancomycin - IV - 10 mg/kg - Plasma - indiv.-vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
-                "Path": "Schaad 1980 - ID 2 - vancomycin - IV - 10 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|vancomycin|ArithmeticMean",
+                "Caption": "Schaad 1980 - ID 2 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.-Vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+                "Path": "Schaad 1980 - ID 2 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Vancomycin|ArithmeticMean",
                 "CurveOptions": {
                   "LineStyle": "None",
                   "Symbol": "Circle"
@@ -4360,7 +4360,7 @@
       "Name": "Schaad 1980 Fig 2b POP",
       "Model": "4Comp",
       "ObservedData": [
-        "Schaad 1980 - ID 3 - vancomycin - IV - 15 mg/kg - Plasma - indiv."
+        "Schaad 1980 - ID 3 - Vancomycin - IV - 15 mg/kg - Plasma - indiv."
       ],
       "Solver": {},
       "OutputSchema": [
@@ -4484,13 +4484,13 @@
           },
           "ObservedDataCollection": {
             "ObservedData": [
-              "Schaad 1980 - ID 3 - vancomycin - IV - 15 mg/kg - Plasma - indiv."
+              "Schaad 1980 - ID 3 - Vancomycin - IV - 15 mg/kg - Plasma - indiv."
             ],
             "ApplyGrouping": false,
             "CurveOptions": [
               {
-                "Caption": "Schaad 1980 - ID 3 - vancomycin - IV - 15 mg/kg - Plasma - indiv.-vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
-                "Path": "Schaad 1980 - ID 3 - vancomycin - IV - 15 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|vancomycin|ArithmeticMean",
+                "Caption": "Schaad 1980 - ID 3 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.-Vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+                "Path": "Schaad 1980 - ID 3 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Vancomycin|ArithmeticMean",
                 "CurveOptions": {
                   "LineStyle": "None",
                   "Symbol": "Circle"
@@ -4555,13 +4555,13 @@
           },
           "ObservedDataCollection": {
             "ObservedData": [
-              "Schaad 1980 - ID 3 - vancomycin - IV - 15 mg/kg - Plasma - indiv."
+              "Schaad 1980 - ID 3 - Vancomycin - IV - 15 mg/kg - Plasma - indiv."
             ],
             "ApplyGrouping": false,
             "CurveOptions": [
               {
-                "Caption": "Schaad 1980 - ID 3 - vancomycin - IV - 15 mg/kg - Plasma - indiv.-vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
-                "Path": "Schaad 1980 - ID 3 - vancomycin - IV - 15 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|vancomycin|ArithmeticMean",
+                "Caption": "Schaad 1980 - ID 3 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.-Vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+                "Path": "Schaad 1980 - ID 3 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Vancomycin|ArithmeticMean",
                 "CurveOptions": {
                   "LineStyle": "None",
                   "Symbol": "Circle"
@@ -4604,7 +4604,7 @@
       "Name": "Schaad 1980 Fig 3a POP",
       "Model": "4Comp",
       "ObservedData": [
-        "Schaad 1980 - ID 4 - vancomycin - IV - 15 mg/kg - Plasma - indiv."
+        "Schaad 1980 - ID 4 - Vancomycin - IV - 15 mg/kg - Plasma - indiv."
       ],
       "Solver": {},
       "OutputSchema": [
@@ -4728,13 +4728,13 @@
           },
           "ObservedDataCollection": {
             "ObservedData": [
-              "Schaad 1980 - ID 4 - vancomycin - IV - 15 mg/kg - Plasma - indiv."
+              "Schaad 1980 - ID 4 - Vancomycin - IV - 15 mg/kg - Plasma - indiv."
             ],
             "ApplyGrouping": false,
             "CurveOptions": [
               {
-                "Caption": "Schaad 1980 - ID 4 - vancomycin - IV - 15 mg/kg - Plasma - indiv.-vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
-                "Path": "Schaad 1980 - ID 4 - vancomycin - IV - 15 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|vancomycin|ArithmeticMean",
+                "Caption": "Schaad 1980 - ID 4 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.-Vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+                "Path": "Schaad 1980 - ID 4 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Vancomycin|ArithmeticMean",
                 "CurveOptions": {
                   "LineStyle": "None",
                   "Symbol": "Circle"
@@ -4799,13 +4799,13 @@
           },
           "ObservedDataCollection": {
             "ObservedData": [
-              "Schaad 1980 - ID 4 - vancomycin - IV - 15 mg/kg - Plasma - indiv."
+              "Schaad 1980 - ID 4 - Vancomycin - IV - 15 mg/kg - Plasma - indiv."
             ],
             "ApplyGrouping": false,
             "CurveOptions": [
               {
-                "Caption": "Schaad 1980 - ID 4 - vancomycin - IV - 15 mg/kg - Plasma - indiv.-vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
-                "Path": "Schaad 1980 - ID 4 - vancomycin - IV - 15 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|vancomycin|ArithmeticMean",
+                "Caption": "Schaad 1980 - ID 4 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.-Vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+                "Path": "Schaad 1980 - ID 4 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Vancomycin|ArithmeticMean",
                 "CurveOptions": {
                   "LineStyle": "None",
                   "Symbol": "Circle"
@@ -4848,7 +4848,7 @@
       "Name": "Schaad 1980 Fig 3b POP",
       "Model": "4Comp",
       "ObservedData": [
-        "Schaad 1980 - ID 5 - vancomycin - IV - 10 mg/kg - Plasma - indiv."
+        "Schaad 1980 - ID 5 - Vancomycin - IV - 10 mg/kg - Plasma - indiv."
       ],
       "Solver": {},
       "OutputSchema": [
@@ -4972,13 +4972,13 @@
           },
           "ObservedDataCollection": {
             "ObservedData": [
-              "Schaad 1980 - ID 5 - vancomycin - IV - 10 mg/kg - Plasma - indiv."
+              "Schaad 1980 - ID 5 - Vancomycin - IV - 10 mg/kg - Plasma - indiv."
             ],
             "ApplyGrouping": false,
             "CurveOptions": [
               {
-                "Caption": "Schaad 1980 - ID 5 - vancomycin - IV - 10 mg/kg - Plasma - indiv.-vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
-                "Path": "Schaad 1980 - ID 5 - vancomycin - IV - 10 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|vancomycin|ArithmeticMean",
+                "Caption": "Schaad 1980 - ID 5 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.-Vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+                "Path": "Schaad 1980 - ID 5 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Vancomycin|ArithmeticMean",
                 "CurveOptions": {
                   "LineStyle": "None",
                   "Symbol": "Circle"
@@ -5043,13 +5043,13 @@
           },
           "ObservedDataCollection": {
             "ObservedData": [
-              "Schaad 1980 - ID 5 - vancomycin - IV - 10 mg/kg - Plasma - indiv."
+              "Schaad 1980 - ID 5 - Vancomycin - IV - 10 mg/kg - Plasma - indiv."
             ],
             "ApplyGrouping": false,
             "CurveOptions": [
               {
-                "Caption": "Schaad 1980 - ID 5 - vancomycin - IV - 10 mg/kg - Plasma - indiv.-vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
-                "Path": "Schaad 1980 - ID 5 - vancomycin - IV - 10 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|vancomycin|ArithmeticMean",
+                "Caption": "Schaad 1980 - ID 5 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.-Vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+                "Path": "Schaad 1980 - ID 5 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Vancomycin|ArithmeticMean",
                 "CurveOptions": {
                   "LineStyle": "None",
                   "Symbol": "Circle"
@@ -5092,7 +5092,7 @@
       "Name": "Schaad 1980 Fig 3c POP",
       "Model": "4Comp",
       "ObservedData": [
-        "Schaad 1980 - ID 6 - vancomycin - IV - 10 mg/kg - Plasma - indiv."
+        "Schaad 1980 - ID 6 - Vancomycin - IV - 10 mg/kg - Plasma - indiv."
       ],
       "Solver": {},
       "OutputSchema": [
@@ -5216,13 +5216,13 @@
           },
           "ObservedDataCollection": {
             "ObservedData": [
-              "Schaad 1980 - ID 6 - vancomycin - IV - 10 mg/kg - Plasma - indiv."
+              "Schaad 1980 - ID 6 - Vancomycin - IV - 10 mg/kg - Plasma - indiv."
             ],
             "ApplyGrouping": false,
             "CurveOptions": [
               {
-                "Caption": "Schaad 1980 - ID 6 - vancomycin - IV - 10 mg/kg - Plasma - indiv.-vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
-                "Path": "Schaad 1980 - ID 6 - vancomycin - IV - 10 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|vancomycin|ArithmeticMean",
+                "Caption": "Schaad 1980 - ID 6 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.-Vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+                "Path": "Schaad 1980 - ID 6 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Vancomycin|ArithmeticMean",
                 "CurveOptions": {
                   "LineStyle": "None",
                   "Symbol": "Circle"
@@ -5287,13 +5287,13 @@
           },
           "ObservedDataCollection": {
             "ObservedData": [
-              "Schaad 1980 - ID 6 - vancomycin - IV - 10 mg/kg - Plasma - indiv."
+              "Schaad 1980 - ID 6 - Vancomycin - IV - 10 mg/kg - Plasma - indiv."
             ],
             "ApplyGrouping": false,
             "CurveOptions": [
               {
-                "Caption": "Schaad 1980 - ID 6 - vancomycin - IV - 10 mg/kg - Plasma - indiv.-vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
-                "Path": "Schaad 1980 - ID 6 - vancomycin - IV - 10 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|vancomycin|ArithmeticMean",
+                "Caption": "Schaad 1980 - ID 6 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.-Vancomycin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+                "Path": "Schaad 1980 - ID 6 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Vancomycin|ArithmeticMean",
                 "CurveOptions": {
                   "LineStyle": "None",
                   "Symbol": "Circle"
@@ -5335,7 +5335,7 @@
   ],
   "ObservedData": [
     {
-      "Name": "Schaad 1980 - ID 1 - vancomycin - IV - 15 mg/kg - Plasma - indiv.",
+      "Name": "Schaad 1980 - ID 1 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.",
       "ExtendedProperties": [
         {
           "Name": "DB Version",
@@ -5418,7 +5418,7 @@
               "Name": "Var",
               "QuantityInfo": {
                 "Name": "Var",
-                "Path": "Schaad 1980 - ID 1 - vancomycin - IV - 15 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|vancomycin|ArithmeticStdDev"
+                "Path": "Schaad 1980 - ID 1 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Vancomycin|ArithmeticStdDev"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -5440,7 +5440,7 @@
           ],
           "QuantityInfo": {
             "Name": "Avg",
-            "Path": "Schaad 1980 - ID 1 - vancomycin - IV - 15 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|vancomycin|ArithmeticMean"
+            "Path": "Schaad 1980 - ID 1 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Vancomycin|ArithmeticMean"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -5464,7 +5464,7 @@
         "Name": "Time",
         "QuantityInfo": {
           "Name": "Time",
-          "Path": "Schaad 1980 - ID 1 - vancomycin - IV - 15 mg/kg - Plasma - indiv.|Time",
+          "Path": "Schaad 1980 - ID 1 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.|Time",
           "Type": "Time"
         },
         "DataInfo": {
@@ -5485,7 +5485,7 @@
       }
     },
     {
-      "Name": "Schaad 1980 - ID 2 - vancomycin - IV - 10 mg/kg - Plasma - indiv.",
+      "Name": "Schaad 1980 - ID 2 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.",
       "ExtendedProperties": [
         {
           "Name": "DB Version",
@@ -5568,7 +5568,7 @@
               "Name": "Var",
               "QuantityInfo": {
                 "Name": "Var",
-                "Path": "Schaad 1980 - ID 2 - vancomycin - IV - 10 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|vancomycin|ArithmeticStdDev"
+                "Path": "Schaad 1980 - ID 2 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Vancomycin|ArithmeticStdDev"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -5590,7 +5590,7 @@
           ],
           "QuantityInfo": {
             "Name": "Avg",
-            "Path": "Schaad 1980 - ID 2 - vancomycin - IV - 10 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|vancomycin|ArithmeticMean"
+            "Path": "Schaad 1980 - ID 2 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Vancomycin|ArithmeticMean"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -5614,7 +5614,7 @@
         "Name": "Time",
         "QuantityInfo": {
           "Name": "Time",
-          "Path": "Schaad 1980 - ID 2 - vancomycin - IV - 10 mg/kg - Plasma - indiv.|Time",
+          "Path": "Schaad 1980 - ID 2 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.|Time",
           "Type": "Time"
         },
         "DataInfo": {
@@ -5635,7 +5635,7 @@
       }
     },
     {
-      "Name": "Schaad 1980 - ID 3 - vancomycin - IV - 15 mg/kg - Plasma - indiv.",
+      "Name": "Schaad 1980 - ID 3 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.",
       "ExtendedProperties": [
         {
           "Name": "DB Version",
@@ -5718,7 +5718,7 @@
               "Name": "Var",
               "QuantityInfo": {
                 "Name": "Var",
-                "Path": "Schaad 1980 - ID 3 - vancomycin - IV - 15 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|vancomycin|ArithmeticStdDev"
+                "Path": "Schaad 1980 - ID 3 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Vancomycin|ArithmeticStdDev"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -5740,7 +5740,7 @@
           ],
           "QuantityInfo": {
             "Name": "Avg",
-            "Path": "Schaad 1980 - ID 3 - vancomycin - IV - 15 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|vancomycin|ArithmeticMean"
+            "Path": "Schaad 1980 - ID 3 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Vancomycin|ArithmeticMean"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -5764,7 +5764,7 @@
         "Name": "Time",
         "QuantityInfo": {
           "Name": "Time",
-          "Path": "Schaad 1980 - ID 3 - vancomycin - IV - 15 mg/kg - Plasma - indiv.|Time",
+          "Path": "Schaad 1980 - ID 3 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.|Time",
           "Type": "Time"
         },
         "DataInfo": {
@@ -5785,7 +5785,7 @@
       }
     },
     {
-      "Name": "Schaad 1980 - ID 4 - vancomycin - IV - 15 mg/kg - Plasma - indiv.",
+      "Name": "Schaad 1980 - ID 4 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.",
       "ExtendedProperties": [
         {
           "Name": "DB Version",
@@ -5868,7 +5868,7 @@
               "Name": "Var",
               "QuantityInfo": {
                 "Name": "Var",
-                "Path": "Schaad 1980 - ID 4 - vancomycin - IV - 15 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|vancomycin|ArithmeticStdDev"
+                "Path": "Schaad 1980 - ID 4 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Vancomycin|ArithmeticStdDev"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -5890,7 +5890,7 @@
           ],
           "QuantityInfo": {
             "Name": "Avg",
-            "Path": "Schaad 1980 - ID 4 - vancomycin - IV - 15 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|vancomycin|ArithmeticMean"
+            "Path": "Schaad 1980 - ID 4 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Vancomycin|ArithmeticMean"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -5914,7 +5914,7 @@
         "Name": "Time",
         "QuantityInfo": {
           "Name": "Time",
-          "Path": "Schaad 1980 - ID 4 - vancomycin - IV - 15 mg/kg - Plasma - indiv.|Time",
+          "Path": "Schaad 1980 - ID 4 - Vancomycin - IV - 15 mg/kg - Plasma - indiv.|Time",
           "Type": "Time"
         },
         "DataInfo": {
@@ -5935,7 +5935,7 @@
       }
     },
     {
-      "Name": "Schaad 1980 - ID 5 - vancomycin - IV - 10 mg/kg - Plasma - indiv.",
+      "Name": "Schaad 1980 - ID 5 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.",
       "ExtendedProperties": [
         {
           "Name": "DB Version",
@@ -6018,7 +6018,7 @@
               "Name": "Var",
               "QuantityInfo": {
                 "Name": "Var",
-                "Path": "Schaad 1980 - ID 5 - vancomycin - IV - 10 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|vancomycin|ArithmeticStdDev"
+                "Path": "Schaad 1980 - ID 5 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Vancomycin|ArithmeticStdDev"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -6040,7 +6040,7 @@
           ],
           "QuantityInfo": {
             "Name": "Avg",
-            "Path": "Schaad 1980 - ID 5 - vancomycin - IV - 10 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|vancomycin|ArithmeticMean"
+            "Path": "Schaad 1980 - ID 5 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Vancomycin|ArithmeticMean"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -6064,7 +6064,7 @@
         "Name": "Time",
         "QuantityInfo": {
           "Name": "Time",
-          "Path": "Schaad 1980 - ID 5 - vancomycin - IV - 10 mg/kg - Plasma - indiv.|Time",
+          "Path": "Schaad 1980 - ID 5 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.|Time",
           "Type": "Time"
         },
         "DataInfo": {
@@ -6085,7 +6085,7 @@
       }
     },
     {
-      "Name": "Schaad 1980 - ID 6 - vancomycin - IV - 10 mg/kg - Plasma - indiv.",
+      "Name": "Schaad 1980 - ID 6 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.",
       "ExtendedProperties": [
         {
           "Name": "DB Version",
@@ -6168,7 +6168,7 @@
               "Name": "Var",
               "QuantityInfo": {
                 "Name": "Var",
-                "Path": "Schaad 1980 - ID 6 - vancomycin - IV - 10 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|vancomycin|ArithmeticStdDev"
+                "Path": "Schaad 1980 - ID 6 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Vancomycin|ArithmeticStdDev"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -6190,7 +6190,7 @@
           ],
           "QuantityInfo": {
             "Name": "Avg",
-            "Path": "Schaad 1980 - ID 6 - vancomycin - IV - 10 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|vancomycin|ArithmeticMean"
+            "Path": "Schaad 1980 - ID 6 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Vancomycin|ArithmeticMean"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -6214,7 +6214,7 @@
         "Name": "Time",
         "QuantityInfo": {
           "Name": "Time",
-          "Path": "Schaad 1980 - ID 6 - vancomycin - IV - 10 mg/kg - Plasma - indiv.|Time",
+          "Path": "Schaad 1980 - ID 6 - Vancomycin - IV - 10 mg/kg - Plasma - indiv.|Time",
           "Type": "Time"
         },
         "DataInfo": {
