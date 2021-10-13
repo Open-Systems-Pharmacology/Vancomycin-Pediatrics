@@ -4011,10 +4011,10 @@
             ]
           },
           "XAxisSettings": {
-            "AutoRange": false
+            "AutoRange": true
           },
           "YAxisSettings": {
-            "AutoRange": false
+            "AutoRange": true
           },
           "SecondaryYAxisSettings": [],
           "Name": "Time Profile Analysis",
@@ -5371,7 +5371,7 @@
         },
         {
           "Name": "Molecule",
-          "Value": "vancomycin"
+          "Value": "Vancomycin"
         },
         {
           "Name": "Species",
@@ -5449,15 +5449,15 @@
             "MolWeight": 1449.3
           },
           "Values": [
-            29.8,
-            22.7999973,
-            19.5,
-            17.7,
-            14.2,
-            11.5
+            29800.0,
+            22799.998,
+            19500.0,
+            17700.0,
+            14200.0,
+            11500.0
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/l"
         }
       ],
       "BaseGrid": {
@@ -5521,7 +5521,7 @@
         },
         {
           "Name": "Molecule",
-          "Value": "vancomycin"
+          "Value": "Vancomycin"
         },
         {
           "Name": "Species",
@@ -5671,7 +5671,7 @@
         },
         {
           "Name": "Molecule",
-          "Value": "vancomycin"
+          "Value": "Vancomycin"
         },
         {
           "Name": "Species",
@@ -5821,7 +5821,7 @@
         },
         {
           "Name": "Molecule",
-          "Value": "vancomycin"
+          "Value": "Vancomycin"
         },
         {
           "Name": "Species",
@@ -5971,7 +5971,7 @@
         },
         {
           "Name": "Molecule",
-          "Value": "vancomycin"
+          "Value": "Vancomycin"
         },
         {
           "Name": "Species",
@@ -6121,7 +6121,7 @@
         },
         {
           "Name": "Molecule",
-          "Value": "vancomycin"
+          "Value": "Vancomycin"
         },
         {
           "Name": "Species",
@@ -6199,15 +6199,15 @@
             "MolWeight": 1449.3
           },
           "Values": [
-            30.5,
-            18.2,
-            14.4,
-            8.9,
-            4.9,
-            2.6
+            30500.0,
+            18200.0,
+            14400.0,
+            8900.0,
+            4900.0,
+            2600.0
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/l"
         }
       ],
       "BaseGrid": {
